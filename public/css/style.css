@@ -292,7 +292,7 @@ a:focus {
 .item.featured {
   max-width: none;
   height: auto;
-  margin-bottom: 15px;
+  margin-bottom: 50px;
 }
 .item.featured:hover:after {
   margin-top: -77px;
